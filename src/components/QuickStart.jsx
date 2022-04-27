@@ -44,7 +44,7 @@ export default function QuickStart({ _isServerInfo }) {
           }
         >
           <Timeline mode="left" style={styles.timeline}>
-            <Text style={styles.text}>Made by, shikha srivastava</Text>
+            <Text style={styles.text}>💰💰</Text>
           </Timeline>
         </Card>
       </div>
